@@ -42,17 +42,17 @@
 		<meta id="collection-1" property="belongs-to-collection">Martian</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">When the beautiful princess Thuvia is kidnapped, suspicion falls on John Carter's Carthoris, who sets out to rescue the woman he loves.</dc:description>
+		<dc:description id="description">When the beautiful princess Thuvia is kidnapped, suspicion falls on John Carter’s Carthoris, who sets out to rescue the woman he loves.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Thuvia, Princess of Mars&lt;/i&gt; moves the focus of the &lt;a href="https://standardebooks.org/collections/martian"&gt;Martian series&lt;/a&gt; to Carthoris, the son of the human John Carter and martian Dejay Thoris and prince of Helium.&lt;/p&gt;
-			&lt;p&gt;Princess Thuvia of Ptarth and Prince Carthoris of Helium, son of John Carter and Dejay Thoris, are in love. Fate, however, is against them: the princess is promised to another, the Jeddak of Kaol, Kulan Tith. So when the princess is kidnapped, suspicion falls on Carthoris, who sets out in his father's footsteps to rescue the damsel and clear his name, meeting new enemies and allies along the way as his journey takes him to far corners of Barsoom.&lt;/p&gt;
+			&lt;p&gt;Princess Thuvia of Ptarth and Prince Carthoris of Helium, son of John Carter and Dejay Thoris, are in love. Fate, however, is against them: the princess is promised to another, the Jeddak of Kaol, Kulan Tith. So when the princess is kidnapped, suspicion falls on Carthoris, who sets out in his father’s footsteps to rescue the damsel and clear his name, meeting new enemies and allies along the way as his journey takes him to far corners of Barsoom.&lt;/p&gt;
 			&lt;p&gt;With many familiar themes from &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Burroughs’&lt;/a&gt; work, such as damsels in distress, fantastical adventures and derring-do, &lt;i&gt;Thuvia, Maid of Mars&lt;/i&gt; introduces some new concepts, such as psychic armies and new flier technologies, as well as bringing entirely new races and settings to the series. It was originally published in 1916 as three serialized parts in &lt;i&gt;All-Story Weekly&lt;/i&gt;, and published as a novel in 1920.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72</dc:source>
-		<dc:source>https://hdl.handle.net/2027/osu.32435018376988</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/100589151</dc:source>
 		<dc:source>https://archive.org/details/thuviamaidofmars0000burr</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">The glossary included in the original publication was excluded from this edition, as it applies to the entire series, rather than this book in particular.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Thuvia,_Maid_of_Mars</meta>
@@ -62,6 +62,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80039681</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">P. J. Monahan</dc:contributor>
 		<meta property="file-as" refines="#artist">Monahan, P. J.</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2018133319</meta>
