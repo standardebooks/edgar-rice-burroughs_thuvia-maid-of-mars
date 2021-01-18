@@ -51,6 +51,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72</dc:source>
 		<dc:source>https://hdl.handle.net/2027/osu.32435018376988</dc:source>
+		<dc:source>https://archive.org/details/thuviamaidofmars0000burr</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
