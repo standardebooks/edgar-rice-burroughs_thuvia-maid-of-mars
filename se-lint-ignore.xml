@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-    <file path="endnotes.xhtml">
-        <ignore>
-            <code>t-010</code>
-            <reason>Incorrect match of decimal number '1.17' as time.</reason>
-        </ignore>
-    </file>
+	<file path="endnotes.xhtml">
+		<ignore>
+			<code>t-010</code>
+			<reason>Incorrect match of decimal number '1.17' as time.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
