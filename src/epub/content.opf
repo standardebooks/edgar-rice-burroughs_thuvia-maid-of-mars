@@ -53,7 +53,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/100589151</dc:source>
 		<dc:source>https://archive.org/details/thuviamaidofmars0000burr</dc:source>
 		<meta property="se:production-notes">The glossary included in the original publication was excluded from this edition, as it applies to the entire series, rather than this book in particular.</meta>
-		<meta property="se:word-count">45625</meta>
+		<meta property="se:word-count">45453</meta>
 		<meta property="se:reading-ease.flesch">70.13</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Thuvia,_Maid_of_Mars</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_thuvia-maid-of-mars</meta>
